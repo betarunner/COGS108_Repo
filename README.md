@@ -1,2 +1,2 @@
 # COGS108_Repo
-this is fore COGS108
+this is for COGS108
